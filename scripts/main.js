@@ -11,13 +11,9 @@ var app = new Vue({
 
 methods:{
 
-say_hello: function() {
-    this.hellos.push(this.hello_world);
+    say_hello: function() {
+        this.hellos.push(this.hello_world);
+    }
 }
-
-
-}
-
-
 })
 
