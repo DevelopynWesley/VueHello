@@ -1,21 +1,9 @@
-body {
-    align-content: center;
-    align-items: center;
-   
-}
-
-.vueapp {
-align-content: center;
-align-items: center;
-}
-
 ul {
     border: 3px solid black;
 }
 
 li {
-    border: 3px solid blueviolet;
     padding: inherit;
-    text-align: center;
     justify-content: center;
+    text-align: center;
 }
